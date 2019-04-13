@@ -1,0 +1,7 @@
+#Sat Apr 13 09:47:19 ICT 2019
+base.0=E\:\\KT\\DocTruyen-Thinh\\DocTruyen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\KT\\DocTruyen-Thinh\\DocTruyen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
